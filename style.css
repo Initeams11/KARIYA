@@ -641,6 +641,12 @@ a { text-decoration: none; }
   margin-bottom: 11px;
 }
 
+.footer p a {
+  display: inline;
+  margin: 0;
+  font-size: inherit;
+}
+
 .footer-bottom {
   display: flex;
   justify-content: space-between;
