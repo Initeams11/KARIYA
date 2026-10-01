@@ -1,8 +1,8 @@
 :root {
   --navy: #10284d;
   --navy-2: #17365f;
-  --orange: #f47b20;
-  --orange-dark: #dd6710;
+  --orange: #0f4c81;
+  --orange-dark: #0d3b66;
   --cream: #fbf7f0;
   --cream-2: #f4eee5;
   --text: #27364b;
@@ -99,7 +99,7 @@ a { text-decoration: none; }
   min-height: 660px;
   padding: 95px 0 70px;
   background:
-    radial-gradient(circle at 8% 20%, rgba(244,123,32,.09), transparent 25%),
+    radial-gradient(circle at 8% 20%, rgba(15,76,129,.09), transparent 25%),
     linear-gradient(110deg, #fff 0%, #fff 46%, #fbf7f0 100%);
 }
 
@@ -110,7 +110,7 @@ a { text-decoration: none; }
   height: 280px;
   left: -170px;
   top: 120px;
-  border: 1px solid rgba(244,123,32,.25);
+  border: 1px solid rgba(15,76,129,.25);
   border-radius: 50%;
 }
 
@@ -377,7 +377,7 @@ a { text-decoration: none; }
 .journey-section {
   padding: 100px 0;
   background:
-    radial-gradient(circle at 15% 80%, rgba(244,123,32,.08), transparent 25%),
+    radial-gradient(circle at 15% 80%, rgba(15,76,129,.08), transparent 25%),
     var(--cream);
   border-top: 1px solid #f1ebe2;
   border-bottom: 1px solid #f1ebe2;
@@ -573,6 +573,8 @@ a { text-decoration: none; }
   color: #fff;
 }
 
+.footer-brand .brand-mark { background: #fff; color: var(--orange); }
+
 .footer-brand strong,
 .footer-brand small { display: block; }
 
@@ -616,9 +618,9 @@ a { text-decoration: none; }
 }
 
 .footer .socials a:hover {
-  color: #fff;
-  background: var(--orange);
-  border-color: var(--orange);
+  color: var(--orange);
+  background: #fff;
+  border-color: #fff;
 }
 
 .footer h4 {
@@ -634,7 +636,7 @@ a { text-decoration: none; }
   margin-bottom: 10px;
 }
 
-.footer a:hover { color: var(--orange); }
+.footer a:hover { color: #fff; }
 
 .footer p {
   font-size: .78rem;
