@@ -60,7 +60,7 @@ $programs = [
       </ul>
 
       <div class="d-flex gap-2">
-        <a href="#contact" class="btn btn-outline-navy rounded-pill px-3">
+        <a href="https://wa.me/628113462728" target="_blank" rel="noopener" class="btn btn-outline-navy rounded-pill px-3">
           <i class="bi bi-whatsapp me-1"></i> Konsultasi
         </a>
         <a href="#register" class="btn btn-orange rounded-pill px-4">Daftar Sekarang <i class="bi bi-arrow-right ms-1"></i></a>
@@ -93,7 +93,7 @@ $programs = [
           <a href="#program" class="btn btn-orange btn-lg rounded-pill px-4">
             Mulai Sekarang <i class="bi bi-arrow-right ms-2"></i>
           </a>
-          <a href="#contact" class="btn btn-outline-navy btn-lg rounded-pill px-4">
+          <a href="https://wa.me/628113462728" target="_blank" rel="noopener" class="btn btn-outline-navy btn-lg rounded-pill px-4">
             <i class="bi bi-whatsapp me-2"></i> Konsultasi Gratis
           </a>
         </div>
@@ -367,7 +367,7 @@ $programs = [
         <p>Konsultasikan tujuanmu dan temukan program yang sesuai.</p>
       </div>
       <div class="d-flex flex-wrap gap-2">
-        <a href="#contact" class="btn btn-light rounded-pill px-4">Konsultasi Gratis</a>
+        <a href="https://wa.me/628113462728" target="_blank" rel="noopener" class="btn btn-light rounded-pill px-4">Konsultasi Gratis</a>
         <a href="#contact" class="btn btn-outline-light rounded-pill px-4">Daftar Sekarang</a>
       </div>
     </div>
@@ -388,7 +388,7 @@ $programs = [
           Mendampingi setiap langkahmu menuju masa depan dan kesempatan di Jepang.
         </p>
         <div class="socials">
-          <a href="#"><i class="bi bi-instagram"></i></a>
+          <a href="https://www.instagram.com/kariya.id/" target="_blank" rel="noopener" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
           <a href="#"><i class="bi bi-tiktok"></i></a>
           <a href="#"><i class="bi bi-youtube"></i></a>
           <a href="#"><i class="bi bi-facebook"></i></a>
@@ -414,7 +414,7 @@ $programs = [
       <div class="col-lg-3">
         <h4>Kontak</h4>
         <p><i class="bi bi-geo-alt me-2"></i>Alamat LPK KARIYA</p>
-        <p><i class="bi bi-whatsapp me-2"></i>08xx-xxxx-xxxx</p>
+        <p><i class="bi bi-whatsapp me-2"></i><a href="https://wa.me/628113462728" target="_blank" rel="noopener">+62 811-3462-728</a></p>
         <p><i class="bi bi-envelope me-2"></i>info@kariya.id</p>
       </div>
     </div>
